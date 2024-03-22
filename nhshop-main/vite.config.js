@@ -7,9 +7,9 @@ export default defineConfig({
             input: {
                 main: resolve(__dirname, "index.html"),
                 show: resolve(__dirname, "./show.html"),
-                cart: resolve(__dirname, "./chitiet.html"),
-                chitiet: resolve(__dirname, "./chitiets.html"),
-                show: resolve(__dirname, "./thanhtoan.html"),
+                chitiet: resolve(__dirname, "./chitiet.html"),
+                chitiets: resolve(__dirname, "./chitiets.html"),
+                thanhtoan: resolve(__dirname, "./thanhtoan.html"),
             },
         },
     },
